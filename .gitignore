@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnx.cache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+
+# C++ specific
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.opendb
